@@ -1,5 +1,7 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Session de formation git
+description: Sessions pour les nouveaux collaborateurs Viseo Customer Success.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+github:
+ zip_url: assets/documents/Sommaire_formation_git.docx
