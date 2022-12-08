@@ -8,10 +8,10 @@ layout: default
 
 
 - I. Présentation théorique
-  - [a. Introduction au versioning de code](pages/introCodeVersionig.md)
-  - [b. Commandes](pages/gitCommands.md)
-  - [c. Branching strategy](pages/branchingStrategy.md)
-  - [d. Outils: Github, Gitlab, BitBucket](pages/tools.md)
+  - [a. Introduction au versioning de code](pages/introCodeVersionig)
+  - [b. Commandes](pages/Commandes)
+  - [c. Branching strategy](pages/BranchingStrategy)
+  - [d. Outils: Github, Gitlab, BitBucket](pages/tools)
 
 - II. Git appliqué à Salesforce
   - a. Installation des outils
