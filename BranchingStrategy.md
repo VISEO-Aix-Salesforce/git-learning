@@ -4,7 +4,7 @@ layout: default
 
 # Branching Strategy
  
- ![Octocat](https://github.com/VISEO-Aix-Salesforce/git-learning/blob/main/assets/images/branchingStrategy.png)
+ ![branchingStrategy](assets/images/branchingStrategy)
 
 Au lieu d'une seule branche principale, ce workflow utilise deux branches pour enregistrer l'historique du projet. 
 La branche principale stocke l'historique officiel des versions et la branche develop sert de branche d'intégration pour les fonctionnalités. 
