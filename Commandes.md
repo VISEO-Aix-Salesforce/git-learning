@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Commandes GIT
         
 ## Cloner un projet à pratir d'un repository
