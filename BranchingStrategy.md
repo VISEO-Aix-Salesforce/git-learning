@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Branching Strategy
  
  ![Octocat](https://github.com/VISEO-Aix-Salesforce/git-learning/blob/main/assets/images/branchingStrategy.png)
