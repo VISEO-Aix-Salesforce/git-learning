@@ -18,7 +18,7 @@ layout: default
     - [i. Installation de Git](pages/GitInstallation)
     - [ii. Installation de VSCode](pages/VSCodeInstallation)
     - [iii. Installation des plugins Salesforce](pages/VSCodePluginsInstallation)
-    - [iv. Plugins Complémentaires](pages/VSCodeOtherPlugins)
+    - [iv. Plugins Complémentaires](pages/VSCodeOthersPlugins)
   - b. SFDX CLI : Les bonnes commandes
   - c. Visualisation de branches : gitk / github / arbre vscode
   - d. Mise en place de l'org à partir de packages locaux
