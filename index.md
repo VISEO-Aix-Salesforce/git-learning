@@ -15,10 +15,10 @@ layout: default
 
 - II. Git appliqué à Salesforce
   - a. Installation des outils
-    - [i. Installation de Git](pages/GitInstallation)
+    - [i. Installation des CLI](pages/CLIInstallation)
     - [ii. Installation de VSCode](pages/VSCodeInstallation)
     - [iii. Installation des plugins Salesforce](pages/VSCodePluginsInstallation)
-    - [iv. Plugins Complémentaires](pages/VSCodeOthersPlugins)
+    - [iv. Installation de GIT](pages/GitInstallation)
   - b. SFDX CLI : Les bonnes commandes
   - c. Visualisation de branches : gitk / github / arbre vscode
   - d. Mise en place de l'org à partir de packages locaux

@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
+[Menu](../index)
 
 Une fois VSCode installé, suivez le lien suivant [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) où 
 vous trouverez les instructions pour installer les extensions nécessaires au développement Salesforce avec VSCode. 
 
 # Installation des Plugins Salesforce dans VSCode
 
-	1. Dans VSCode ouvrez le menu des plugins et rechercher Salesforce Extension Pack
-	![Plugin1SFExtensions](../assets/images/vscode/Plugin1SFExtensions.png)
-	2. Cliquez sur Install
+1. Dans VSCode ouvrez le menu des plugins et rechercher Salesforce Extension Pack
+![Plugins1SFExtensions](../assets/images/vscode/Plugins1SFExtensions.png)
+2. Cliquez sur Install
 
 > _Astuce: Vous pouvez aussi installer le Salesforce Extension Pack (Extended) qui comprends d'autres plugins utiles:_
 > * **Apex Log Analyzer** qui permet une analyse des Logs Salesforce
@@ -30,7 +31,9 @@ Pour faciliter votre travail sur Salesforce, vous pouvez également installer le
 * **Salesforce Snippet** qui fournit une liste de Code Snippet à utiliser lors du développement Salesforce, cette extension ne prends pas encore en compte le code LWC mais 
 * **Salesforce LWC Snippet** peut vous en ajouter quelques uns.
 * **Salesforce Documenter** qui permet d'insérer des en-têtes de documentation pour vos classes et méthodes.
+> 
 > Ce dernier ne semble plus maintenu il peut être remplacé par **ApexDox VS Code**
+> 
 
 # Installation de plugins complémentaires
 	
@@ -45,3 +48,5 @@ les plugins suivants peuvent s'avérer utiles:
 # Vous en avez d'autres...contribuez!
 
 N'hésitez pas à proposer ici les extensions que vous jugez utiles autours de VS Code.
+
+[Menu](../index)
