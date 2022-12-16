@@ -11,7 +11,7 @@ Pour aller plus loin de manière un peu plus ludique, nous vous proposons deux r
 Git School est une pplication permettant de demystifier ce qui se passe sous le capot lorsque nous utilisons des commandes GIT.
 Il permet de taper des commandes sur la gauche et de voir l'evolution de l'arbre sur la droite. On peut travailler en local ou remote.
 
-![GitSchool](../assets/images/Playgrounds/GitSchool.png)
+![GitSchool](../assets/images/Playgrounds/GitSchool.PNG)
 
 [Ouvrir Git School](http://git-school.github.io/visualizing-git/#free)
 
@@ -24,7 +24,7 @@ Il permet de taper des commandes sur la gauche et de voir l'evolution de l'arbre
 Learn Git Branching se présente comme une série de tutorials accompagnés d'exercices pratiques sous la forme d'un jeu à différents niveaux.
 Au fur et a mesure que l'on saisi les commandes du challenge, l'arbre sur la droite se met a jour.
 
-![LearGitBranching](../assets/images/Playgrounds/LearnGitBranching.png)
+![LearnGitBranching](../assets/images/Playgrounds/LearnGitBranching.PNG)
 
 [Ouvrir Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 
