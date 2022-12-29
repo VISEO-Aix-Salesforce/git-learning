@@ -54,4 +54,16 @@ git --version
 git version 2.39.0.windows.1
 ```
 
+# Saisie d'une clé SSH dans GIT
+
+1. Pour saisir votre clé SSH dans GIT cliquez sur votre menu utilisateur en haut à droite de l'écran
+![SSH0Menu](../assets/images/GIT/SSH0Menu.png)
+2. Cliquez sur **Settings**
+![SSH1Menu](../assets/images/GIT/SSH1Menu.png)
+3. Dans le menu à gauche cliquez sur **SSH and GPG Key**
+![SSH2NewSSHKey](../assets/images/GIT/SSH2NewSSHKey.png)
+4. Donnez un nom à votre clé et collez votre clé dans le champ Clé
+![SSH3EnterKey](../assets/images/GIT/SSH3EnterKey.png)
+5. Validez en cliquant sur **Ajouter une clé SSH**
+
 [Menu](../index)
