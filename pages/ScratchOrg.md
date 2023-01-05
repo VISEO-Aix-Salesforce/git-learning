@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Création de la Scratch Org
+# Création de la Scratch Org
 
 Etape 1 : Il faut tout d'abord activer le DevHub dans l'org de PROD (Setup -> Dev Hub)
 
