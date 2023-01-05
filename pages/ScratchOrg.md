@@ -11,7 +11,8 @@ layout: default
 
 ### Etape 2 : Sur VS Code il faut faire "Create project with manifest"
 
-### Etape 3 : Authorize a Dev Hub, on va avoir une redirection pour se connecter à l'org
+### Etape 3 : Authorize a Dev Hub
+> On va avoir une redirection pour se connecter à l'org.
 
 ### Etape 4 : Create a default Scratch Org...
 
