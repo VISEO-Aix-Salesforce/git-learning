@@ -8,7 +8,7 @@ layout: default
 
 
 - I. Présentation théorique
-  - [a. Introduction au versioning de code](pages/introCodeVersionig)
+  - [a. Introduction au versioning de code](pages/introCodeVersioning)
   - [b. Commandes](pages/Commandes)
   - [c. Branching strategy](pages/BranchingStrategy)
   - [d. Outils: Github, Gitlab, BitBucket](pages/tools)
