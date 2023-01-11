@@ -20,6 +20,9 @@ Dans et image on peut voir que l'issue comporte les informations classiques que 
 La Pull Request est un mécanisme qui permet de fusionner le travail effectué sur une branche de feature sur la branche commune principale. La PR a une branche source (qui est la créée par le développeur depuis la branche principale) et une branche destination (qui est la branche commune ou master) sur laquelle on souhaite fusionner les modification réalisées.
 ![github_pullRequest_tab](../assets/images/github_pullRequest_tab.png)
 La Pull Request contient le code qui sera mergée sur la branche de destination.
+Une fois le travail terminé et que l'on souhaite merger le code il suffit de cliquer sur le bouton Merge pull Request
+![github_pullRequest-merge_tab](../assets/images/github_pullRequest-merge_tab.png)
+
 
 ## Lier les issues et les Pull Request
 Il est possible de lier les Pull Request et les issue. En effet, on peut lier ceux là pour que lorsque la PR est mergée dans le branche de destination, l'issue liée soit automatiquement fermée dans la foulée.
