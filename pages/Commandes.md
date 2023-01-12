@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Menu](../index)
 
 # Commandes GIT
         
@@ -123,3 +124,5 @@ Git Fetch
 
 Pour aller plus loin avec une liste plus détaillée des commandes Git
 [Référence Git](https://git-scm.com/docs)
+
+[Menu](../index)
