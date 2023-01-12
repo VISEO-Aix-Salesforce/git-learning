@@ -9,7 +9,7 @@ vous trouverez les instructions pour installer les extensions nÃ©cessaires au dÃ
 # Installation des Plugins Salesforce dans VSCode
 
 1. Dans VSCode ouvrez le menu des plugins et rechercher Salesforce Extension Pack
-![Plugins1SFExtensions](../assets/images/vscode/Plugins1SFExtensions.png)
+![Plugins1SFExtensions](../assets/images/VSCode/Plugins1SFExtensions.png)
 2. Cliquez sur Install
 
 > _Astuce: Vous pouvez aussi installer le Salesforce Extension Pack (Extended) qui comprends d'autres plugins utiles:_
