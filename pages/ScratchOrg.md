@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Menu](../index)
 
 # Création de la Scratch Org
 
@@ -18,3 +19,5 @@ layout: default
 
 ### Etape 5 : Open Default Org
 > Ce qui va nous donner accès à la scratch org tout juste créer.
+
+[Menu](../index)
