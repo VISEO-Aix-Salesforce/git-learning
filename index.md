@@ -29,7 +29,7 @@ layout: default
   - c. Visualisation de branches : gitk / github / arbre vscode
   - d. Mise en place de l'org à partir de packages locaux
     - i. Sandbox
-    - ii. Scratch Orgs
+    - [ii. Scratch Orgs](pages/ScratchOrg)
 
 - IV. Atelier 'Hands On'
   - a. Création du Projet
