@@ -41,9 +41,9 @@ Après avoir sélectionné Autoriser une organisation. Vous serez invité avec p
 VSCode Sélectionnez le type de bac à sable pour autoriser une commande d'organisation
 Si vous autorisez votre organisation de production, sélectionnez Production, sinon sélectionnez l'option Sandbox.
 
-Note
-
-Si vous connectez du code Visual Studio à une organisation Trailhead, vous devez sélectionner Production.
+> **Note**
+>
+> Si vous connectez du code Visual Studio à une organisation Trailhead, vous devez sélectionner Production.
 
 
 L'étape suivante vous demandera d'entrer l'alias de cette connexion. Ceci est très utile lorsque vous avez plusieurs connexions à différentes configurations d'organisations.
@@ -59,9 +59,9 @@ Une fois connecté, un message vous demandera d'autoriser Salesforce CLI à acc�
 
 Cliquez sur Autoriser.
 
-Pointe
-
-Parfois, l'onglet peut mettre un certain temps à s'ouvrir. Vous devrez peut-être annuler l'autorisation et réessayer.
+> **Astuce**
+>
+> Parfois, l'onglet peut mettre un certain temps à s'ouvrir. Vous devrez peut-être annuler l'autorisation et réessayer.
 
 
 Autoriser l'accès VSCode à l'organisation Salesforce
