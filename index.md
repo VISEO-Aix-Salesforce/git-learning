@@ -28,7 +28,7 @@ layout: default
   - b. SFDX CLI : Les bonnes commandes
   - c. Visualisation de branches : gitk / github / arbre vscode
   - d. Mise en place de l'org à partir de packages locaux
-    - i. Sandbox
+    - [i. Sandbox](pages/Sanbox)
     - [ii. Scratch Orgs](pages/ScratchOrg)
 
 - IV. Atelier 'Hands On'
